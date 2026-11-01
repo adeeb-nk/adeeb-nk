@@ -7,9 +7,9 @@
 
 Building web applications with modern technologies.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/) •
-[GitHub](https://github.com/YOUR_USERNAME) •
-[Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/adeeb-n/)•
+[GitHub](https://github.com/adeeb-nk) •
+[Email](mailto:adeebn479@gmail.com)
 
 </div>
 
@@ -39,15 +39,14 @@ my development and problem-solving skills.
 | Frontend | HTML5, CSS3, JavaScript, React.js, Tailwind CSS |
 | Backend | Node.js, Express.js |
 | Database | MongoDB |
-| State Management | Redux |
 | API Integration | REST APIs, Axios |
-| Tools | Git, GitHub, Postman, VS Code |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
 ## SELECTED PROJECTS
 
-### 01 / E-Commerce Application
+### 01 / Fragranzia
 
 A full-stack e-commerce platform featuring product management,
 user authentication, shopping cart, wishlist, and administrative controls.
@@ -58,18 +57,7 @@ user authentication, shopping cart, wishlist, and administrative controls.
 
 ---
 
-### 02 / Task Management System
-
-A web application for managing tasks with functionality to
-create, view, update, delete, and track task status.
-
-**Technologies:** React.js · Node.js · Express.js · MongoDB
-
-[View Repository](YOUR_PROJECT_REPOSITORY_URL)
-
----
-
-### 03 / Medi-Assist
+### 02 / Medi-Assist
 
 An AI-based healthcare assistant that processes patient speech,
 extracts symptoms using NLP, and provides healthcare-related assistance.
@@ -77,18 +65,6 @@ extracts symptoms using NLP, and provides healthcare-related assistance.
 **Technologies:** Python · NLP · Whisper ASR · Machine Learning
 
 [View Repository](YOUR_PROJECT_REPOSITORY_URL)
-
----
-
-## GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" width="42%" />
-
-</div>
 
 ---
 
