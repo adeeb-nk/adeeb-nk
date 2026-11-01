@@ -53,7 +53,7 @@ user authentication, shopping cart, wishlist, and administrative controls.
 
 **Technologies:** React.js · Node.js · Express.js · MongoDB
 
-[View Repository](YOUR_PROJECT_REPOSITORY_URL)
+[View Repository](https://github.com/adeeb-nk/Fragranzia)
 
 ---
 
