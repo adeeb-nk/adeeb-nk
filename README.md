@@ -15,20 +15,17 @@ Building web applications with modern technologies.
 
 ---
 
-## ABOUT
 
-I'm an Information Technology graduate and MERN Stack Developer
-interested in building scalable, functional, and user-focused
-web applications.
+## About Me
 
-I enjoy working across the frontend and backend, transforming
-ideas into practical applications while continuously improving
-my development and problem-solving skills.
+I'm an Information Technology graduate and MERN Stack Developer passionate about building functional and scalable web applications.
 
-- Currently focused on full-stack web development.
-- Building projects using the MERN stack.
-- Strengthening JavaScript and problem-solving skills.
-- Interested in learning new technologies and development practices.
+I work with JavaScript, React.js, Node.js, Express.js, and MongoDB, with an interest in developing full-stack solutions and understanding how applications work across the frontend and backend.
+
+I enjoy exploring new technologies, solving technical challenges, and continuously improving my development skills.
+
+**Currently focused on:** Full-stack development, backend engineering, and building real-world projects.
+
 
 ---
 
@@ -64,7 +61,7 @@ extracts symptoms using NLP, and provides healthcare-related assistance.
 
 **Technologies:** Python · NLP · Whisper ASR · Machine Learning
 
-[View Repository](YOUR_PROJECT_REPOSITORY_URL)
+[View Repository](https://github.com/fayismohd123/medi-assist)
 
 ---
 
